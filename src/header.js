@@ -11,7 +11,7 @@ export function Header() {
         Discover Issues and Repositories with
         <label className="IssueLabel GoodFirstIssue">
           good first issue
-        </label>{" "}
+        </label>
         and
         <label className="IssueLabel HelpWanted">help wanted</label> labels.
       </p>
